@@ -36,9 +36,6 @@ public:
             i++;
             j--;
         }
-        if(ant==0)return true;
-        if(ant>1)return false;
-        if(s.size()==3)return false;
         return true;
     }
 };
