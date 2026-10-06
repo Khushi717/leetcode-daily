@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Khushi717/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Khushi717/leetcode-daily/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/Khushi717/leetcode-daily/tree/master/1768-merge-strings-alternately) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
