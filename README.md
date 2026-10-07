@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Khushi717/leetcode-daily/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/Khushi717/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Khushi717/leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Khushi717/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Khushi717/leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Khushi717/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Khushi717/leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
