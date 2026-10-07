@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Khushi717/leetcode-daily/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Khushi717/leetcode-daily/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Khushi717/leetcode-daily/tree/master/1768-merge-strings-alternately) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Khushi717/leetcode-daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushi717/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -62,15 +64,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
