@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
+| [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Khushi717/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -91,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
