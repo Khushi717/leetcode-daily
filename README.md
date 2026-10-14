@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Khushi717/leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Khushi717/leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Khushi717/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Khushi717/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Khushi717/leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Khushi717/leetcode-daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0977-squares-of-a-sorted-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Khushi717/leetcode-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Khushi717/leetcode-daily/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
