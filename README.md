@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi717/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
