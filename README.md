@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Khushi717/leetcode-daily/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khushi717/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Khushi717/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi717/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
