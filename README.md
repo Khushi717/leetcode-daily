@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Khushi717/leetcode-daily/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Khushi717/leetcode-daily/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Khushi717/leetcode-daily/tree/master/2109-adding-spaces-to-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Khushi717/leetcode-daily/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
