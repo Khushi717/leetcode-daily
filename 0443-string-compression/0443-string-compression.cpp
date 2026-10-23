@@ -13,11 +13,11 @@ public:
             i--;
             if(cnt==1)continue;
             if(cnt<=9)
-            ans.push_back(cnt+'0');
+            ans.push_back(cnt+'0'); //num to char
             else{
                 string ss="";
                 while(cnt>0){
-                    ss+=(cnt%10)+'0';
+                    ss+=(cnt%10)+'0'; //num to char
                     cnt/=10;
                 }
                 reverse(ss.begin(),ss.end());
@@ -25,7 +25,6 @@ public:
                     ans.push_back(itr);
                 }
             }
-
         }
         chars=ans;
         return ans.size();
