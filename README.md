@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Khushi717/leetcode-daily/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khushi717/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Khushi717/leetcode-daily/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Khushi717/leetcode-daily/tree/master/0443-string-compression) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khushi717/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Khushi717/leetcode-daily/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Khushi717/leetcode-daily/tree/master/0455-assign-cookies) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khushi717/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Khushi717/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
