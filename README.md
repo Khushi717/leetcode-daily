@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Khushi717/leetcode-daily/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Khushi717/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khushi717/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Khushi717/leetcode-daily/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Khushi717/leetcode-daily/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
