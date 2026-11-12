@@ -2,25 +2,34 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n=nums.size();
-        set<vector<long long>> ans;
+        sort(nums.begin(),nums.end());
+        vector<vector<int>> ans;
         for(int i=0;i<n;i++){
+            if(i>0 && nums[i]==nums[i-1])continue;
             for(int j=i+1;j<n;j++){
-                unordered_set<long long> st; //o1 hashmap
-                for(int k=j+1;k<n;k++){
-                    long long sum=(long long)nums[i]+nums[j]+nums[k];
-                    if(st.find((long long)(target-sum))!=st.end()){
-                        vector<long long> temp={nums[i],nums[j],nums[k],(long long)(target-sum)};
-                        sort(temp.begin(),temp.end());
-                        ans.insert(temp);
+                if(j>i+1 && nums[j]==nums[j-1]) continue;
+                int k=j+1;
+                int l=n-1;
+                while(k<l){
+                    long long sum=(long long)nums[i]+nums[j]+nums[k]+nums[l];
+                    if(sum>target){
+                        l--;
+                        while(k<l && nums[l]==nums[l+1])l--;
                     }
-                    st.insert(nums[k]);
+                    else if(sum<target){
+                        k++;
+                        while(k<l && nums[k]==nums[k-1])k++;
+                    }
+                    else{
+                        ans.push_back({nums[i],nums[j],nums[k],nums[l]});
+                        k++;
+                        l--;
+                        while(k<l && nums[l]==nums[l+1])l--;
+                        while(k<l && nums[k]==nums[k-1])k++;
+                    }
                 }
             }
         }
-        vector<vector<int>> res;
-        for(auto i : ans){
-            res.push_back({(int)i[0],(int)i[1],(int)i[2],(int)i[3]});
-        }
-        return res;
+        return ans;
     }
 };
