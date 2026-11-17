@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Khushi717/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi717/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Khushi717/leetcode-daily/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Khushi717/leetcode-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
