@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khushi717/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Khushi717/leetcode-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Khushi717/leetcode-daily/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Khushi717/leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Khushi717/leetcode-daily/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -142,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Khushi717/leetcode-daily/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Khushi717/leetcode-daily/tree/master/0904-fruit-into-baskets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Khushi717/leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khushi717/leetcode-daily/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Khushi717/leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushi717/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Khushi717/leetcode-daily/tree/master/0069-sqrtx) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Khushi717/leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Khushi717/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Indexed Tree
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushi717/leetcode-daily/tree/master/0002-add-two-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Khushi717/leetcode-daily/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
